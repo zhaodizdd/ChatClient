@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bold.png</file>
+        <file>img/clear.png</file>
+        <file>img/close.png</file>
+        <file>img/color.png</file>
+        <file>img/italic.png</file>
+        <file>img/menu_sessionsItem_gap_gray-2x.png</file>
+        <file>img/menu_sessionsItem_gap_normal-2x.png</file>
+        <file>img/menu-contact-down-2x.png</file>
+        <file>img/menu-contact-hover-2x.png</file>
+        <file>img/menu-contact-normal-2x.png</file>
+        <file>img/menu-message-down-2x.png</file>
+        <file>img/menu-message-hover-2x.png</file>
+        <file>img/menu-message-normal-2x.png</file>
+        <file>img/min.png</file>
+        <file>img/save.png</file>
+        <file>img/under.png</file>
+        <file>img/屏幕截图 2024-03-11 221111.png</file>
+    </qresource>
+</RCC>
