@@ -25,6 +25,7 @@ public slots:
     void slotRecvMsg();
 
 public:
+    // 这里直接写的服务器的地址和端口号，未将其设置未配置文件。
     const char IP[16] = "192.168.117.132";
     const int PORT = 8000;
 private:
